@@ -1,0 +1,430 @@
+Link Step Sub Tab for Incident Involvement Process Flow;	Lien sous-onglet de l'étape pour le flux du processus de participation aux incidents
+Checklist Responsible Individual Category Scope Index Table;	Tableau d'Index de la Portée des Catégories de Individus Responsables de la Liste de Contrôle
+Please provide a detailed description of the incident;	Veuillez Fournir une Description Détaillée de l'Incident
+What is the Perpetrator relationship to the survivor(s)?;	Quelle est la relation de l'Auteur avec le(s) Survivant(s)?
+Add attachments;	Ajouter des Pièces Jointes
+Was there more survivors involved?;	Y Avait-il Plus de Survivants Impliqués?
+Message Utility Global Notification Rule Intersection;	Intersection de la Règle de Notification Globale d'Utilitaire de Message
+Attachment is linked to an Escalation Procedure and cannot be deleted.;	La Pièce Jointe est liée à une Procédure d'Escalade et ne peut pas être supprimée.
+This attachment cannot be deleted because it is linked to another entry.;	Cette Pièce Jointe ne peut pas être supprimée car elle est liée à une autre Entrée.
+Email Reference Number Option;	Option Numéro de Référence Courriel
+Modus Operandi;	Modus Operandi
+Simple Locality;	Localité Simple
+Account - Contact;	Compte - Contact
+Security Measure;	Mesure de Sécurité
+Response Occurrence Rule;	Réponse Règle d'Occurrence
+Response;	Réponse
+Account - Contact;	Compte - Contact
+Account Contacts;	Contacts du Compte
+Schema;	Schéma
+Workflow;	Flux de Travail
+Status;	Statut
+Escalation Step Rule Occurrence;	Règle Occurrence d'Étape d'Escalade
+Transition;	Transition
+Workflow Rule;	Règle du Flux de Travail
+Workflow Rule;	Règle du Flux de Travail
+Workflow;	Flux de Travail
+Signaltower Default Workflow;	Flux de Travail par Défaut Signaltower
+Account by Locality;	Compte par Localité
+Account by Contacts;	Compte par Contacts
+Subcategory;	Sous-Catégorie
+Last Login;	Dernière Date de Connexion
+Please ensure that all fields are filled in!;	Veuillez vous assurer que tous les champs sont remplis!
+Please ensure that the passwords entered match.;	Veuillez vous assurer que les mots de passe saisis correspondent.
+Password strength should at least be ;	La force du Mot de Passe doit au moins être
+New Password;	Nouveau Mot de Passe
+Confirm Password;	Confirmez le Mot de Passe
+Set Password;	Définir le Mot de Passe
+An email containing the link to reset your password has been sent to you. ;	Une courriel contenant le lien pour réinitialiser votre mot de passe vous a été envoyé.
+Request Password;	Demander Mot de Passe
+Request New Password;	Demander un Nouveau Mot de Passe
+Logging in;	Se Connecter
+Serious login error!;	Erreur de connexion grave!
+The server seems to be down, please try again later.;	Le serveur semble être en panne, veuillez réessayer plus tard.
+Hide Licenses;	Cahcer les Licences
+Show App URL;	Afficher l'URL de l'application
+Hide App URL;	Cacher l'URL de l'application
+A password must be provided!;	Un mot de passe doit être fourni!
+A username must be provided!;	Un nom d'utilisateur doit être fourni!
+Please enter a valid PIN!;	Veuillez saisir un code PIN valide!
+Please enter a valid license key!;	Veuillez saisir une clé de licence valide!
+Error while updating license!;	Erreur lors de la mise à jour de la licence!
+License updated successfully, Thank you!;	Licence mise à jour avec succès, merci!
+Could not validate current system user;	Impossible de valider l'utilisateur système actuel
+invalid system user!;	utilisateur système invalide!
+system user deleted!;	utilisateur système supprimé!
+The password could not be updated because the supplied old password is incorrect!;	Le mot de passe n'a pas pu être mis à jour car l'ancien mot de passe fourni est incorrect!
+The password could not be updated because the user was not found!;	Le mot de passe n'a pas pu être mis à jour car l'utilisateur n'a pas été trouvé!
+password;	Mot de Passe
+Reset your;	Réinitialisez votre
+The maximum amount of sessions allows concurrently is ;	Le nombre maximum de sessions autorisées simultanément est
+Please log out the other session/s to continue...;	Veuillez déconnecter les autres sessions pour continuer...
+There are no valid licences loaded on the system.;	Aucune licence valide n'est chargée sur le système.
+There are no licences loaded on the system.;	Aucune licence n'est chargée sur le système.
+continue;	continuer
+A database error has occurred!;	Une erreur de base de données s'est produite!
+Please contact your system administrator.;	Veuillez contacter votre administrateur système.
+Login details incorrect!;	Informations de connexion incorrectes!
+Unable to start two factor authentication;	Impossible de démarrer l'authentification à deux facteurs
+Please cancel the  Two Factor Authentication process & try again.;	Veuillez annuler le processus d'authentification à deux facteurs et réessayer.
+Could not retrieve token, please resend!;	Impossible de récupérer le jeton, veuillez renvoyer!
+PIN has expired, please resend!;	Le code PIN a expiré, veuillez le renvoyer!
+Incorrect Pin!;	Pin incorrect!
+Unexpected error occurred while attempting two factor authentication, please resend!;	Une erreur inattendue s'est produite lors de la tentative d'authentification à deux facteurs, veuillez renvoyer!
+License errors, check license information page.;	Erreurs de licence, consultez la page d'informations sur la licence.
+The supplied link has already been used or has expired, please get another link!;	Le lien fourni a déjà été utilisé ou a expiré, veuillez obtenir un autre lien!
+The supplied link is invalid!;	Le lien fourni est invalide!
+Internet Explorer 7 or Compatibility View Detected.;	Internet Explorer 7 ou Affichage de Compatibilité Détecté.
+You may experience some known issues while using this version of explorer.;	Vous pouvez rencontrer des problèmes connus lors de l'utilisation de cette version de l'explorateur.
+License Information;	Informations sur la Licence
+Please paste your license key here;	Veuillez coller votre clé de licence ici
+This application is not compatible with Internet Explorer 6 or older.;	Cette application n'est pas compatible avec Internet Explorer 6 ou une version antérieure.
+Password;	Mot de Passe
+Application URL;	URL de l'Application
+Show App URL;	Afficher l'URL de l'Application
+Last Login;	Dernière Date de Connexion
+Home;	Accueil
+Logout;	Se déconnecter
+Administration;	Administration
+Change Password;	Changer le Mot de Passe
+End Translation;	Terminer la Traduction
+Change to Translate;	Changer pour Traduire
+Landing Page;	Page d'Accueil
+Components;	Composants
+Navigation;	Navigation
+Hide;	Cacher
+Search here;	Cherche ici
+Loading, please wait...;	Chargement, veuillez patienter...
+Are you sure you want to remove this attachment?;	Voulez-vous vraiment supprimer cette pièce jointe?
+General Error;	Erreur Générale
+Session Expired;	La Session a Expiré
+Logged Out;	Déconnecté
+Access Denied;	Accès Refusé
+Not Found - 404;	Non Trouvé - 404
+Database Error;	Erreur de la Base de Données
+Internet Explorer Browser Error;	Erreur de Navigateur Internet Explorer
+Record Not Found;	Enregistrement Non Trouvé
+Record is Read-Only;	L'enregistrement est en Lecture Seule
+link.;	Lien.
+You are not currently logged in, your session may have expired or you have been logged out.;	Vous n'êtes pas connecté actuellement, votre session a peut-être expiré ou vous avez été déconnecté.
+You have been successfully logged out, to log in again please click ;	Vous avez été déconnecté avec succès, pour vous reconnecter, cliquez
+You have been successfully logged out, to log in again please click ;	Vous avez été déconnecté avec succès, pour vous reconnecter, cliquez
+You don't have access to view this information. To go back to the previous screen please click ;	Vous n'avez pas accès pour afficher ces informations. Pour revenir à l'écran précédent, cliquez
+We're sorry, but the page requested could not be found. To go back to the previous screen please click ;	Nous sommes désolés, mais la page demandée est introuvable. Pour revenir à l'écran précédent, cliquez
+A connection to the database could not be established, please contact your system administrator.;	Une connexion à la base de données n'a pas pu être établie, veuillez contacter votre administrateur système.
+This application is not compatible with Internet Explorer version 6 or lower.;	Cette application n'est pas compatible avec Internet Explorer version 6 ou inférieure.
+An error has occurred while executing the request.;	Une erreur s'est produite lors de l'exécution de la demande.
+You don't have access to modify this information. To go back to the previous screen please click ;	Vous n'avez pas accès pour modifier ces informations. Pour revenir à l'écran précédent, cliquez
+The record you requested could not be found. To go back to the previous screen please click;	L'enregistrement que vous avez demandé est introuvable. Pour revenir à l'écran précédent, cliquez
+Menu search...;	Recherche de menu…
+NO MENUS FOUND;	AUCUN MENUS TROUVÉ
+New;	Nouveau
+Edit;	Éditer
+View;	Voir
+Report;	Rapport
+Help;	Aidez-moi
+Back;	Retour
+Close;	Fermer
+Link Analysis;	Analyse des Liens
+Edit Access;	Accès Modifier
+Translate;	Traduire
+Delete;	Supprimer
+Cancel;	Annuler
+Login;	Connexion
+Resend;	Renvoyer
+Save;	Enregistrer
+This dashboard is a parent to other dashboards.  Please remove the child dashboards first;	Ce tableau de bord est parent d'autres tableaux de bord. Veuillez d'abord supprimer les tableaux de bord liés
+This dashboard can not be a child of itself. Please remove the group or choose an appropriate one.;	Ce tableau de bord ne peut pas être un Subdomain de lui-même. Veuillez supprimer le groupe ou en choisir un approprié.
+The contact number does not meet the required format\n\n Example : ;	Le numéro de contact ne correspond pas au format requis \ n \ n Exemple:
+In Translation Mode;	En mode traduction
+No Assets have been selected.;	Aucun Actif n'a été sélectionné.
+Select a Condition for the Asset.;	Sélectionnez une Condition pour l'Actif.
+Please note that the recalculation of Category per Locality Scoping Rules may take some time. Ensure that you have set up all Category per Locality Scoping Rules before recalculation. Do you wish to continue ?;	Veuillez noter que le recalcul des règles de cadrage des catégories par localité peut prendre un certain temps. Assurez-vous que vous avez configuré toutes les règles de portée des catégories par localité avant de recalculer. Souhaitez-vous continuer ?
+Category per Locality Scoping Rules are already calculating!;	Les règles de cadrage des catégories par localité sont déjà en cours de calcul!
+Select a Condition for the Asset.;	Sélectionnez une Condition pour l'Actif.
+Please select at least one Locality or Locality Group.;	Veuillez sélectionner au moins une Localité ou un Groupe de Localités.
+Please select at least one Recipient;	Veuillez sélectionner au moins un Destinataire
+Cannot continue with action, check Financial Impact Validation Rule(s) below;	Impossible de poursuivre l'action, vérifiez les règles de validation de l'impact financier ci-dessous
+Change Motivation required.;	Changement de motivation requis.
+Motivation required.;	Motivation requise.
+Please select either the SMS or Email option;	Veuillez sélectionner l'option SMS ou Courriel
+Please enter a email message;	Veuillez saisir un courriel
+Please enter a SMS message;	Veuillez saisir un SMS
+Please select a recipient with a cell number;	Veuillez sélectionner un destinataire avec un numéro de portable
+Please select a recipient with an valid email address;	Veuillez sélectionner un destinataire avec un courriel valide
+Please ensure that at least one option is selected for each of the following Locality Groupings;	Veuillez vous assurer qu'au moins une option est sélectionnée pour chacun des Regroupements de Localités suivants
+in the future cannot be selected.;	à l'avenir ne peut pas être sélectionné.
+Selected is in the Future.;	Sélectionné est dans le futur.
+Are you sure you want to save this Incident?;	Êtes-vous sûr de vouloir enregistrer cet Incident?
+The following required Escalation Steps are incomplete;	Les Étapes d'Escalade requises suivantes sont incomplètes
+Are you sure you wish to Complete the Escalation Procedure(s)?;	Êtes-vous sûr de vouloir terminer la (les) Procédure (s) d'Escalade?
+Please enter Feedback;	Veuillez saisir de Rétroaction
+Please enter a valid decimal value;	Veuillez saisir une valeur décimale valide
+Please enter a valid integer value between ;	Veuillez saisir une valeur entière valide entre
+Please enter a valid number between 0 and 10;	Veuillez saisir un nombre valide compris entre 0 et 10
+Unable to save Escalation Step as the User doesnt have scope.;	Impossible d'enregistrer l'Étape d'Escalade car l'utilisateur n'a pas de Portée.
+Unable to save Escalation Step as Response cannot be validated with the regular expression.;	Impossible d'enregistrer l'Étape d'Escalade en tant que réponse ne peut pas être validée avec l'expression régulière.
+Unable to save Escalation Step as the Step has Predecessors.;	Impossible d'enregistrer l'Étape d'Escalade car l'Étape a des Prédécesseurs.
+Asset cannot be deleted as it is linked to : ;	L'élément ne peut pas être supprimé car il est lié à:
+Job Card;	Carte de Travail
+External Job Card;	Carte de Travail Externe
+Locality Control;	Contrôle de Localité
+Please supply a value for the field : External Reference Numbers.;	Veuillez fournir une valeur pour le champ: Numéros de référence externes.
+Please supply a value for the field : External Reference Numbers.;	Veuillez fournir une valeur pour le champ: Numéros de référence externes.
+Please supply a value for the field : External Reference Numbers.;	Veuillez fournir une valeur pour le champ: Numéros de référence externes.
+Please supply a value for the field : External Reference Numbers.;	Veuillez fournir une valeur pour le champ: Numéros de référence externes.
+Please supply a value for the field : External Reference Numbers.;	Veuillez fournir une valeur pour le champ: Numéros de référence externes.
+Please supply a value for the field : External Reference Numbers.;	Veuillez fournir une valeur pour le champ: Numéros de référence externes.
+External Reference Type is required, please ensure all required references are present;	Le Type de Référence Externe est requis, veuillez vous assurer que toutes les références requises sont présentes
+External Reference Type is required, please ensure all required references are present;	Le Type de Référence Externe est requis, veuillez vous assurer que toutes les références requises sont présentes
+Financial Impact cannot be deleted as its linked to : ;	L'Impact Financier ne peut pas être supprimé car il est lié à:
+The Individual cannot be deleted  because of the following: ;	L'individu ne peut pas être supprimé pour les raisons suivantes:
+Has been selected as an Escalation Procedure feedback.;	A été sélectionné comme commentaire de Procédure d'Escalade.
+Has been selected as an Escalation Procedure feedback.;	A été sélectionné comme commentaire de Procédure d'Escalade.
+Has been selected as a recipient for an Escalation Step Notification.;	A été sélectionné comme destinataire pour une Notification d'Étape d'Escalade.
+Has been selected as a recipient for an Escalation Step Notification.;	A été sélectionné comme destinataire pour une Notification d'Étape d'Escalade.
+Has been selected as a "ReportedBy" for an Incident/Occurrence.;	A été sélectionné comme «Rapporté Par» pour un Incident / Occurrence.
+Has been selected as a "Stakeholder" for an  Incident/Occurrence.;	A été sélectionné comme «Partie Prenante» pour un Incident / Occurrence.
+Has been selected as a "Guard" for an  Incident/Occurrence.;	A été sélectionné comme «Gardien» pour un Incident / Occurrence.
+Has been selected as a "Supervisor" for an  Incident/Occurrence.;	A été sélectionné comme «Superviseur» pour un Incident / Occurrence.
+Is linked to a Checklist Schedule.;	Est lié à une Programme de la Liste de Contrôle
+Is linked to a Checklist Resource.;	Est lié à une Programme de la Liste de Contrôle des Ressources
+Is linked to a Checklist Response Rule.;	Est lié à une Programme de la Règles de Réponse de la Liste de Contrôle
+Is part of Asset Tracking;	Fait partie du Suivi des Actifs
+Has an Arrest Record.;	A un Dossier d'Arrestation.
+Is linked to a Court Appearance.;	Est lié à une comparution devant le tribunal.
+Is linked to a Disciplinary Appearance.;	Est lié à une comparution disciplinaire.
+Is linked to a Job Card.;	Est lié à une Carte de Travail
+Is linked to a Locality Association.;	Est lié à une Association de la Localité
+Is linked to a Notification Rule.;	Est lié à une Règle de Notification
+Is linked to a Job Card Rule.;	Est lié à une Règle de Carte de Travail
+Is linked to a Police Station Association.;	Est lié à une Association des Postes de Police
+Has a Suspension linked to an Incident.;	A une Suspension liée à un Incident.
+Is linked to a Scheduled Report.;	Est lié à un Rapport Programmée
+Is a ITG Instacom Employee.;	Est un employé d'ITG Instacom.
+Is a Risk Assessment Individual.;	Est individu d'Évaluation des Risques
+Please supply a value for the field : External Reference Numbers.;	Veuillez fournir une valeur pour le champ: Numéros de Référence Externes.
+Please supply a value for the field : External Reference Numbers.;	Veuillez fournir une valeur pour le champ: Numéros de Référence Externes.
+The Contact Number does not meet the required format\n\n Example : ;	Le Numéro de Contact ne correspond pas au format requis \ n \ n Exemple:
+The Account Number does not meet the required format\n\n Example : ;	Le Numéro de Compte ne correspond pas au format requis \ n \ n Exemple:
+The Contact Number does not meet the required format\n\n Example : ;	Le Numéro de Contact ne correspond pas au format requis \ n \ n Exemple:
+The Account Number does not meet the required format\n\n Example : ;	Le Numéro de Compte ne correspond pas au format requis \ n \ n Exemple:
+This Locality cannot be deleted, it is used in :;	Cette Localité ne peut pas être supprimée, elle est utilisée dans:
+Assets;	Actifs
+Checklists;	Listes de Contrôle
+Checklist Response Rules;	Règles de Réponse de la Liste de Contrôle
+Checklist Schedules;	Programmes de la Liste de Contrôle
+Criminal Records;	Casiers Judiciaires 
+Employee Locality Groups;	Groupes de Localités d'Employés
+Employee Security Clearances;	Autorisations de Sécurité des Employés
+Entries;	Entrées
+IMPI Message Localities;	Localités de Messages IMPI
+IMPI Message Locality Groups;	Groupes de Localités de Message IMPI
+Individual Profilies;	Profils d'Individus
+Intergration Bloodhound Sites;	Sites d'Intégration Bloodhound
+Instacom Intergaration Locations;	Locations - Instacom Intergaration
+Instacom Intergaration Employees;	Employés d'Instacom Intergaration
+Locality Associations;	Associations de la Localité 
+Locality Attachments;	Pièces Jointes de Localité
+Locality Incident Profiles;	Profils d'Incidents de Localité
+Locality Restrictions;	Restrictions de Localité
+Locality Addresses;	Adresses des Localités
+Locality Groups;	Groupes de Localité
+Locality Groups;	Groupes de Localité
+Locality Risk Categories;	Catégories de Risque de Localité
+Locality Site Description Fields;	Champs de Description de Site de Localité
+Locality Structures;	Structures des Localités
+Locality Profiles;	Profils des Localités
+Bulk Notification Localities;	Localités de Notification en Masse
+Notification Details;	Détails de la Notification
+Police Associations;	Associations de Police
+Point Of Interest;	Point d'Intérêt
+Risk Assessments;	Evaluations des Risques
+Response Vehicle Localities;	Localités des Véhicules d'Intervention
+Disaster Mode locality Rules;	Règles de Localité en Mode Catastrophe
+Locality Group Rules;	Règles de Groupe de Localités
+Locality Rules;	Règles des Localités
+Security Gurad Localities;	Localités d'Agents de Sécurité
+Tasks;	Tâches
+Scope Profile Locality Group Scoping;	Portée Profil de Portée du Groupe de Localités
+User Locality Scoping;	Portée de la Localité Utilisateur
+Collab Share Scoping;	Portée du Partage de Collaboration
+Subsequent Events;	Événements Ultérieurs
+Flag as Dispatch;	Marquer comme Envoi
+Finalise Event;	Finaliser l'Événement
+Panic Resource;	Ressource de Panique
+View Locality GPS;	Voir le GPS de la Localité
+Special Instructions;	Instructions Spéciales
+Medical Details;	Détails Médicaux
+Alternative Contacts;	Contacts Alternatifs
+Key Details;	Détails Clés
+Vehicles;	Véhicules
+Authorized Individual;	Personne Autorisée
+Directions;	Instructions
+Business Hours;	Heures de Travail
+Feedback;	Rétroaction
+Escalation Steps;	Étapes d'Escalade
+Category;	Catégorie
+Custom Values;	Valeurs Personnalisées
+Technical;	Technique
+Commands;	Commandes
+This event has already been acknowledged by;	Cet événement a déjà été reconnu par
+Property;	Propriété
+Property Name;	Nom Propriété
+Vehicle Property;	Propriété Véhicule
+Property Value;	Valeur de la Propriété
+Transition options;	Options de transition
+Request Description;	Demander une Description
+Show Final Category Popup;	Afficher la fenêtre contextuelle de la Catégorie Finale
+Navigate back to Stack;	Revenez à Stack
+Vehicle Display Label;	Étiquette d'Affichage du Véhicule
+Registration;	Enregistrement
+Category;	Catégorie
+External Reference;	Référence Externe
+Primary Colour;	Couleur Primaire
+Model;	Modèle
+Subcategory Score;	Score de la Sous-Catégorie
+The first name that was specified, already exists.;	Le prenom spécifié existe déjà.
+The last name that was specified, already exists.;	Le nom de famille spécifié existe déjà.
+Passport number that was specified, already exists.;	Le numéro de passeport spécifié existe déjà.
+External reference number that was specified, already exists.;	Numéro de référence externe spécifié, existe déjà.
+ID number that was specified, already exists.;	Le numéro d'identification spécifié existe déjà.
+Survey Feedback;	Commentaires sur l'Enquête
+Progress;	Progrès
+Progress;	Progrès
+Show New Button;	Afficher le nouveau bouton
+Transition Options;	Options de Transition
+Checklist Subcategory Score;	Score de la Sous-Catégorie de la Liste de Contrôle
+Occurrence Escalation Procedure;	Procédure d'Escalade d'Occurrence
+Please supply a value for the field : External Reference Numbers.;	Veuillez fournir une valeur pour le champ: Numéros de Référence Externes.
+Vehicle already exist with the specified registration number.;	Le véhicule existe déjà avec le numéro d'immatriculation spécifié.
+Vehicle already exist with the specified primary colour.;	Le véhicule existe déjà avec la couleur primaire spécifiée.
+Vehicle already exist with the specified model.;	Le véhicule existe déjà avec le modèle spécifié.
+Vehicle already exist with the specified category.;	Le véhicule existe déjà avec la catégorie spécifiée.
+External reference number that was specified, already exists.;	Numéro de référence externe spécifié, existe déjà.
+Vehicle Display Label Cache;	Cache d'Étiquettes d'Affichage du Véhicule
+Vehicle;	Véhicule
+Resource Display Label;	Étiquette d'Affichage des Ressources
+Vehicle Display Label;	Étiquette d'Affichage du Véhicule
+Historic Alarm Event;	Événement d'Alarme Historique
+Vehicle Esclation Procedure Scope;	Portée de la Procédure d'Esclation du Véhicule
+Interval In Minutes;	Intervalle en Minutes
+Historc Alarm Events;	Événements d'Alarme d'Historique
+Are there any witnesses ?;	Y-a-t-il des témoins?
+Do you want to use the complainant details?;	Voulez-vous utiliser les détails du plaignant?
+Use Historic Events;	Utiliser les Événements Historiques
+Amount of Event Reoccurences;	Nombre de Réapparitions d'Occurrences
+Escalation Occurrence Category Scope;	Portée de la Catégorie d'Occurrence d'Escalade
+Escalation Individual Type Scoping;	Portée du Type Individuel d'Escalade
+Escalation Vehicle Category Scope;	Portée de la Catégorie de Véhicule d'Escalade
+Modus Operandi Summary;	Résumé du Modus Operandi
+Modus Operandi Detailed;	Modus Operandi Détaillé
+Security Measure Summary;	Résumé des Mesures de Sécurité
+Security Measure Detailed;	Mesure de Sécurité Détaillée
+Status Type;	Type de Statut
+Status Type;	Type de Statut
+Check Duplicate Settings;	Vérifier les Paramètres en Double
+Security Measure;	Mesure de Sécurité
+Registration Number ;	Numéro d'Enregistrement
+Primary Colour;	Couleur Primaire
+Categories ;	Catégories
+Car Model;	Modèle de Voiture
+External Reference;	Référence Externe
+Check Duplicate Settings;	Vérifier les Paramètres en Double
+ID Number;	Numéro d'Identification
+First Name;	Prenom
+Last name;	Nom
+Passport;	Passeport
+External Reference;	Référence Externe
+Individual Type Scope;	Portée de Type Individuel
+Vehicle Category Scope;	Portée de la Catégorie de Véhicule
+Occurrence Category Scope;	Portée de la Catégorie d'Occurrence
+Vehicle;	Véhicule
+Vehicle already exist with the specified credentails.;	Le véhicule existe déjà avec les informations d'identification spécifiées.
+Historic Events;	Événements Historiques
+Historic Event Category;	Catégorie d'Événement Historique
+Simple Step;	Étape Simple
+Step Filter;	Filtre d'Étape
+Full Step;	Étape Complète
+Checklist Category Subcategory Intersection;	Liste de Contrôle Intersection de Sous-catégories de Catégories
+Account Historic Event Count;	Compte d'Événements Historiques du Compte
+Resource Response Time;	Temps de Réponse des Ressources
+Incompatible Browser !;	Navigateur Incompatible
+Internet Explorer ;	Internet Explorer 
+mode detected, the system may not function properly. Please disable compatibility view or upgrade your browser. \nCompatibility view can be disabled via 'Tools' > 'Compatibility View;	mode détecté, le système peut ne pas fonctionner correctement. Veuillez désactiver l'affichage de compatibilité ou mettre à jour votre navigateur. \ nLa vue de compatibilité peut être désactivée via 'Outils'> 'Vue de compatibilité
+License Expiry Due!;	Date Expiration de la Licence!
+Your license for;	Votre licence pour
+ will expire in ;	expirera dans
+ day;	jour
+The following licenses are about to expire;	Les licences suivantes sont sur le point d'expirer
+Please contact Online Intelligence to renew your license.;	Veuillez contacter Online Intelligence pour renouveler votre licence.
+Please enable JavaScript to use file uploader.;	Veuillez activer JavaScript pour utiliser le téléchargeur de fichiers.
+Click an item to select it.;	Cliquez sur un élément pour le sélectionner.
+Historic Events Hidden Menu;	Menu caché des événements historiques
+Schema;	Schéma
+Global Turnaround Time;	Délai d'Exécution Global
+Turnaround Time;	Délai d'Exécution
+Event Created Date;	Date de Création de l'Événement
+Page;	Page
+Today;	Aujourd'hui
+This Week;	Cette Semaine
+This Month;	Ce Mois-Ci
+This Year;	Cette Année
+This Financial Year;	Cette Année Financière
+Last X Hours;	Dernières X Heures
+Yesterday;	Hier
+Last X Days;	X Derniers Jours
+Last Week;	La Semaine Dernière
+Last X Weeks;	X Dernières Semaines
+Last Month;	Le Mois Dernier
+Last 3 Months;	3 Derniers Mois
+Last 6 Months;	6 Derniers Mois
+Last X Months;	X Derniers Mois
+Last Year;	X Dernières Années
+Last X Years;	X Dernières Années
+Last X Financial Years;	X Dernières Années Financières
+Next X Hours;	X Prochaines Heures
+Tomorrow;	Demain
+Next X Days;	X Prochains Jours
+Next Week;	Prochaine Semaine
+Next X Weeks;	X Prochaines Semaines
+Next Month;	Le Mois Prochain
+Next 3 Months;	3 Prochains Mois
+Next 6 Months;	6 Prochains Mois
+Next X Months;	X Prochains Mois
+Next Year;	L'Année Prochaine
+Next X Years;	X Prochaines Années
+Next Financial Year;	Prochain Année Financière
+Next X Financial Years;	X Prochains Années Financières
+Advanced On;	Avancé à
+Advanced Before;	Avancé Avant
+Advanced After;	Avancé Après
+Advanced Between;	Avancé Entre
+Super Search;	Super Recherche
+Checking Super Search Status...;	Vérification de l'État de la Super Recherche ...
+Your system is being indexed;	Votre système est en cours d'indexation
+currently at;	actuellement à
+The Database is already being indexed.;	La Base de Données est déjà en cours d'indexation.
+The directory defined in the CentralPath.Index System Property is invalid! Please ensure the directory is accesible.;	Le répertoire défini dans la propriété système CentralPath.Index n'est pas valide! Veuillez vous assurer que le répertoire est accessible.
+An issue has occurred, Please contact your Administator.;	Un problème est survenu. Veuillez contacter votre administrateur.
+cannot index system if super search is not enabled!;	impossible d'indexer le système si la super recherche n'est pas activée!
+ of ;	de
+Unable to find email address for the specified system user;	Impossible de trouver l'adresse courriel de l'Utilisateur Système spécifié
+PIN successfully sent to ;	PIN envoyé avec succès à
+PIN was not successfully sent to ;	Le code PIN n'a pas été envoyé avec succès à
+Unable to send Email to;	Impossible d'envoyer le courriel à
+Unable to find contact number for the specified system user;	Impossible de trouver le numéro de contact de l'utilisateur système spécifié
+PIN successfully sent to ;	PIN envoyé avec succès à
+SMS was not successfully sent to ;	Le SMS n'a pas été envoyé avec succès à
+Unable to send SMS as the settings are not defined;	Impossible d'envoyer des SMS car les paramètres ne sont pas définis
+Unable to send SMS to ;	Impossible d'envoyer des SMS à
+Remaining Monthly Integration Credits: ;	Crédits d'Intégration Mensuels Restants:
+This saved query cannot be deleted, it is linked to;	Cette requête enregistrée ne peut pas être supprimée, elle est liée à
+Process Flow;	Flux de Processus
+There is an item for your attention.;	Il y a un élément à votre attention.
+ActiveRecord;	Enregistrement Actif
+ External Reference Numbers;	Numéros de Référence Externes
+Appearance Location;	Emplacement d'Apparence
+Weighted Rating;	Évaluation Pondération
+External Reference Numbers;	Numéros de Référence Externes
+Organisation Contact DetailID;	Coordonnées d'Organisation

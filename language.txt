@@ -1,0 +1,430 @@
+Lien sous-onglet de l'étape pour le flux du processus de participation aux incidents
+Tableau d'Index de la Portée des Catégories de Individus Responsables de la Liste de Contrôle
+Veuillez Fournir une Description Détaillée de l'Incident
+Quelle est la relation de l'Auteur avec le(s) Survivant(s)?
+Ajouter des Pièces Jointes
+Y Avait-il Plus de Survivants Impliqués?
+Intersection de la Règle de Notification Globale d'Utilitaire de Message
+La Pièce Jointe est liée à une Procédure d'Escalade et ne peut pas être supprimée.
+Cette Pièce Jointe ne peut pas être supprimée car elle est liée à une autre Entrée.
+Option Numéro de Référence Courriel
+Modus Operandi
+Localité Simple
+Compte - Contact
+Mesure de Sécurité
+Réponse Règle d'Occurrence
+Réponse
+Compte - Contact
+Contacts du Compte
+Schéma
+Flux de Travail
+Statut
+Règle Occurrence d'Étape d'Escalade
+Transition
+Règle du Flux de Travail
+Règle du Flux de Travail
+Flux de Travail
+Flux de Travail par Défaut Signaltower
+Compte par Localité
+Compte par Contacts
+Sous-Catégorie
+Dernière Date de Connexion
+Veuillez vous assurer que tous les champs sont remplis!
+Veuillez vous assurer que les mots de passe saisis correspondent.
+La force du Mot de Passe doit au moins être
+Nouveau Mot de Passe
+Confirmez le Mot de Passe
+Définir le Mot de Passe
+Une courriel contenant le lien pour réinitialiser votre mot de passe vous a été envoyé.
+Demander Mot de Passe
+Demander un Nouveau Mot de Passe
+Se Connecter
+Erreur de connexion grave!
+Le serveur semble être en panne, veuillez réessayer plus tard.
+Cahcer les Licences
+Afficher l'URL de l'application
+Cacher l'URL de l'application
+Un mot de passe doit être fourni!
+Un nom d'utilisateur doit être fourni!
+Veuillez saisir un code PIN valide!
+Veuillez saisir une clé de licence valide!
+Erreur lors de la mise à jour de la licence!
+Licence mise à jour avec succès, merci!
+Impossible de valider l'utilisateur système actuel
+utilisateur système invalide!
+utilisateur système supprimé!
+Le mot de passe n'a pas pu être mis à jour car l'ancien mot de passe fourni est incorrect!
+Le mot de passe n'a pas pu être mis à jour car l'utilisateur n'a pas été trouvé!
+Mot de Passe
+Réinitialisez votre
+Le nombre maximum de sessions autorisées simultanément est
+Veuillez déconnecter les autres sessions pour continuer...
+Aucune licence valide n'est chargée sur le système.
+Aucune licence n'est chargée sur le système.
+continuer
+Une erreur de base de données s'est produite!
+Veuillez contacter votre administrateur système.
+Informations de connexion incorrectes!
+Impossible de démarrer l'authentification à deux facteurs
+Veuillez annuler le processus d'authentification à deux facteurs et réessayer.
+Impossible de récupérer le jeton, veuillez renvoyer!
+Le code PIN a expiré, veuillez le renvoyer!
+Pin incorrect!
+Une erreur inattendue s'est produite lors de la tentative d'authentification à deux facteurs, veuillez renvoyer!
+Erreurs de licence, consultez la page d'informations sur la licence.
+Le lien fourni a déjà été utilisé ou a expiré, veuillez obtenir un autre lien!
+Le lien fourni est invalide!
+Internet Explorer 7 ou Affichage de Compatibilité Détecté.
+Vous pouvez rencontrer des problèmes connus lors de l'utilisation de cette version de l'explorateur.
+Informations sur la Licence
+Veuillez coller votre clé de licence ici
+Cette application n'est pas compatible avec Internet Explorer 6 ou une version antérieure.
+Mot de Passe
+URL de l'Application
+Afficher l'URL de l'Application
+Dernière Date de Connexion
+Accueil
+Se déconnecter
+Administration
+Changer le Mot de Passe
+Terminer la Traduction
+Changer pour Traduire
+Page d'Accueil
+Composants
+Navigation
+Cacher
+Cherche ici
+Chargement, veuillez patienter...
+Voulez-vous vraiment supprimer cette pièce jointe?
+Erreur Générale
+La Session a Expiré
+Déconnecté
+Accès Refusé
+Non Trouvé - 404
+Erreur de la Base de Données
+Erreur de Navigateur Internet Explorer
+Enregistrement Non Trouvé
+L'enregistrement est en Lecture Seule
+Lien.
+Vous n'êtes pas connecté actuellement, votre session a peut-être expiré ou vous avez été déconnecté.
+Vous avez été déconnecté avec succès, pour vous reconnecter, cliquez
+Vous avez été déconnecté avec succès, pour vous reconnecter, cliquez
+Vous n'avez pas accès pour afficher ces informations. Pour revenir à l'écran précédent, cliquez
+Nous sommes désolés, mais la page demandée est introuvable. Pour revenir à l'écran précédent, cliquez
+Une connexion à la base de données n'a pas pu être établie, veuillez contacter votre administrateur système.
+Cette application n'est pas compatible avec Internet Explorer version 6 ou inférieure.
+Une erreur s'est produite lors de l'exécution de la demande.
+Vous n'avez pas accès pour modifier ces informations. Pour revenir à l'écran précédent, cliquez
+L'enregistrement que vous avez demandé est introuvable. Pour revenir à l'écran précédent, cliquez
+Recherche de menu…
+AUCUN MENUS TROUVÉ
+Nouveau
+Éditer
+Voir
+Rapport
+Aidez-moi
+Retour
+Fermer
+Analyse des Liens
+Accès Modifier
+Traduire
+Supprimer
+Annuler
+Connexion
+Renvoyer
+Enregistrer
+Ce tableau de bord est parent d'autres tableaux de bord. Veuillez d'abord supprimer les tableaux de bord liés
+Ce tableau de bord ne peut pas être un Subdomain de lui-même. Veuillez supprimer le groupe ou en choisir un approprié.
+Le numéro de contact ne correspond pas au format requis \ n \ n Exemple:
+En mode traduction
+Aucun Actif n'a été sélectionné.
+Sélectionnez une Condition pour l'Actif.
+Veuillez noter que le recalcul des règles de cadrage des catégories par localité peut prendre un certain temps. Assurez-vous que vous avez configuré toutes les règles de portée des catégories par localité avant de recalculer. Souhaitez-vous continuer ?
+Les règles de cadrage des catégories par localité sont déjà en cours de calcul!
+Sélectionnez une Condition pour l'Actif.
+Veuillez sélectionner au moins une Localité ou un Groupe de Localités.
+Veuillez sélectionner au moins un Destinataire
+Impossible de poursuivre l'action, vérifiez les règles de validation de l'impact financier ci-dessous
+Changement de motivation requis.
+Motivation requise.
+Veuillez sélectionner l'option SMS ou Courriel
+Veuillez saisir un courriel
+Veuillez saisir un SMS
+Veuillez sélectionner un destinataire avec un numéro de portable
+Veuillez sélectionner un destinataire avec un courriel valide
+Veuillez vous assurer qu'au moins une option est sélectionnée pour chacun des Regroupements de Localités suivants
+à l'avenir ne peut pas être sélectionné.
+Sélectionné est dans le futur.
+Êtes-vous sûr de vouloir enregistrer cet Incident?
+Les Étapes d'Escalade requises suivantes sont incomplètes
+Êtes-vous sûr de vouloir terminer la (les) Procédure (s) d'Escalade?
+Veuillez saisir de Rétroaction
+Veuillez saisir une valeur décimale valide
+Veuillez saisir une valeur entière valide entre
+Veuillez saisir un nombre valide compris entre 0 et 10
+Impossible d'enregistrer l'Étape d'Escalade car l'utilisateur n'a pas de Portée.
+Impossible d'enregistrer l'Étape d'Escalade en tant que réponse ne peut pas être validée avec l'expression régulière.
+Impossible d'enregistrer l'Étape d'Escalade car l'Étape a des Prédécesseurs.
+L'élément ne peut pas être supprimé car il est lié à:
+Carte de Travail
+Carte de Travail Externe
+Contrôle de Localité
+Veuillez fournir une valeur pour le champ: Numéros de référence externes.
+Veuillez fournir une valeur pour le champ: Numéros de référence externes.
+Veuillez fournir une valeur pour le champ: Numéros de référence externes.
+Veuillez fournir une valeur pour le champ: Numéros de référence externes.
+Veuillez fournir une valeur pour le champ: Numéros de référence externes.
+Veuillez fournir une valeur pour le champ: Numéros de référence externes.
+Le Type de Référence Externe est requis, veuillez vous assurer que toutes les références requises sont présentes
+Le Type de Référence Externe est requis, veuillez vous assurer que toutes les références requises sont présentes
+L'Impact Financier ne peut pas être supprimé car il est lié à:
+L'individu ne peut pas être supprimé pour les raisons suivantes:
+A été sélectionné comme commentaire de Procédure d'Escalade.
+A été sélectionné comme commentaire de Procédure d'Escalade.
+A été sélectionné comme destinataire pour une Notification d'Étape d'Escalade.
+A été sélectionné comme destinataire pour une Notification d'Étape d'Escalade.
+A été sélectionné comme «Rapporté Par» pour un Incident / Occurrence.
+A été sélectionné comme «Partie Prenante» pour un Incident / Occurrence.
+A été sélectionné comme «Gardien» pour un Incident / Occurrence.
+A été sélectionné comme «Superviseur» pour un Incident / Occurrence.
+Est lié à une Programme de la Liste de Contrôle
+Est lié à une Programme de la Liste de Contrôle des Ressources
+Est lié à une Programme de la Règles de Réponse de la Liste de Contrôle
+Fait partie du Suivi des Actifs
+A un Dossier d'Arrestation.
+Est lié à une comparution devant le tribunal.
+Est lié à une comparution disciplinaire.
+Est lié à une Carte de Travail
+Est lié à une Association de la Localité
+Est lié à une Règle de Notification
+Est lié à une Règle de Carte de Travail
+Est lié à une Association des Postes de Police
+A une Suspension liée à un Incident.
+Est lié à un Rapport Programmée
+Est un employé d'ITG Instacom.
+Est individu d'Évaluation des Risques
+Veuillez fournir une valeur pour le champ: Numéros de Référence Externes.
+Veuillez fournir une valeur pour le champ: Numéros de Référence Externes.
+Le Numéro de Contact ne correspond pas au format requis \ n \ n Exemple:
+Le Numéro de Compte ne correspond pas au format requis \ n \ n Exemple:
+Le Numéro de Contact ne correspond pas au format requis \ n \ n Exemple:
+Le Numéro de Compte ne correspond pas au format requis \ n \ n Exemple:
+Cette Localité ne peut pas être supprimée, elle est utilisée dans:
+Actifs
+Listes de Contrôle
+Règles de Réponse de la Liste de Contrôle
+Programmes de la Liste de Contrôle
+Casiers Judiciaires 
+Groupes de Localités d'Employés
+Autorisations de Sécurité des Employés
+Entrées
+Localités de Messages IMPI
+Groupes de Localités de Message IMPI
+Profils d'Individus
+Sites d'Intégration Bloodhound
+Locations - Instacom Intergaration
+Employés d'Instacom Intergaration
+Associations de la Localité 
+Pièces Jointes de Localité
+Profils d'Incidents de Localité
+Restrictions de Localité
+Adresses des Localités
+Groupes de Localité
+Groupes de Localité
+Catégories de Risque de Localité
+Champs de Description de Site de Localité
+Structures des Localités
+Profils des Localités
+Localités de Notification en Masse
+Détails de la Notification
+Associations de Police
+Point d'Intérêt
+Evaluations des Risques
+Localités des Véhicules d'Intervention
+Règles de Localité en Mode Catastrophe
+Règles de Groupe de Localités
+Règles des Localités
+Localités d'Agents de Sécurité
+Tâches
+Portée Profil de Portée du Groupe de Localités
+Portée de la Localité Utilisateur
+Portée du Partage de Collaboration
+Événements Ultérieurs
+Marquer comme Envoi
+Finaliser l'Événement
+Ressource de Panique
+Voir le GPS de la Localité
+Instructions Spéciales
+Détails Médicaux
+Contacts Alternatifs
+Détails Clés
+Véhicules
+Personne Autorisée
+Instructions
+Heures de Travail
+Rétroaction
+Étapes d'Escalade
+Catégorie
+Valeurs Personnalisées
+Technique
+Commandes
+Cet événement a déjà été reconnu par
+Propriété
+Nom Propriété
+Propriété Véhicule
+Valeur de la Propriété
+Options de transition
+Demander une Description
+Afficher la fenêtre contextuelle de la Catégorie Finale
+Revenez à Stack
+Étiquette d'Affichage du Véhicule
+Enregistrement
+Catégorie
+Référence Externe
+Couleur Primaire
+Modèle
+Score de la Sous-Catégorie
+Le prenom spécifié existe déjà.
+Le nom de famille spécifié existe déjà.
+Le numéro de passeport spécifié existe déjà.
+Numéro de référence externe spécifié, existe déjà.
+Le numéro d'identification spécifié existe déjà.
+Commentaires sur l'Enquête
+Progrès
+Progrès
+Afficher le nouveau bouton
+Options de Transition
+Score de la Sous-Catégorie de la Liste de Contrôle
+Procédure d'Escalade d'Occurrence
+Veuillez fournir une valeur pour le champ: Numéros de Référence Externes.
+Le véhicule existe déjà avec le numéro d'immatriculation spécifié.
+Le véhicule existe déjà avec la couleur primaire spécifiée.
+Le véhicule existe déjà avec le modèle spécifié.
+Le véhicule existe déjà avec la catégorie spécifiée.
+Numéro de référence externe spécifié, existe déjà.
+Cache d'Étiquettes d'Affichage du Véhicule
+Véhicule
+Étiquette d'Affichage des Ressources
+Étiquette d'Affichage du Véhicule
+Événement d'Alarme Historique
+Portée de la Procédure d'Esclation du Véhicule
+Intervalle en Minutes
+Événements d'Alarme d'Historique
+Y-a-t-il des témoins?
+Voulez-vous utiliser les détails du plaignant?
+Utiliser les Événements Historiques
+Nombre de Réapparitions d'Occurrences
+Portée de la Catégorie d'Occurrence d'Escalade
+Portée du Type Individuel d'Escalade
+Portée de la Catégorie de Véhicule d'Escalade
+Résumé du Modus Operandi
+Modus Operandi Détaillé
+Résumé des Mesures de Sécurité
+Mesure de Sécurité Détaillée
+Type de Statut
+Type de Statut
+Vérifier les Paramètres en Double
+Mesure de Sécurité
+Numéro d'Enregistrement
+Couleur Primaire
+Catégories
+Modèle de Voiture
+Référence Externe
+Vérifier les Paramètres en Double
+Numéro d'Identification
+Prenom
+Nom
+Passeport
+Référence Externe
+Portée de Type Individuel
+Portée de la Catégorie de Véhicule
+Portée de la Catégorie d'Occurrence
+Véhicule
+Le véhicule existe déjà avec les informations d'identification spécifiées.
+Événements Historiques
+Catégorie d'Événement Historique
+Étape Simple
+Filtre d'Étape
+Étape Complète
+Liste de Contrôle Intersection de Sous-catégories de Catégories
+Compte d'Événements Historiques du Compte
+Temps de Réponse des Ressources
+Navigateur Incompatible
+Internet Explorer 
+mode détecté, le système peut ne pas fonctionner correctement. Veuillez désactiver l'affichage de compatibilité ou mettre à jour votre navigateur. \ nLa vue de compatibilité peut être désactivée via 'Outils'> 'Vue de compatibilité
+Date Expiration de la Licence!
+Votre licence pour
+expirera dans
+jour
+Les licences suivantes sont sur le point d'expirer
+Veuillez contacter Online Intelligence pour renouveler votre licence.
+Veuillez activer JavaScript pour utiliser le téléchargeur de fichiers.
+Cliquez sur un élément pour le sélectionner.
+Menu caché des événements historiques
+Schéma
+Délai d'Exécution Global
+Délai d'Exécution
+Date de Création de l'Événement
+Page
+Aujourd'hui
+Cette Semaine
+Ce Mois-Ci
+Cette Année
+Cette Année Financière
+Dernières X Heures
+Hier
+X Derniers Jours
+La Semaine Dernière
+X Dernières Semaines
+Le Mois Dernier
+3 Derniers Mois
+6 Derniers Mois
+X Derniers Mois
+X Dernières Années
+X Dernières Années
+X Dernières Années Financières
+X Prochaines Heures
+Demain
+X Prochains Jours
+Prochaine Semaine
+X Prochaines Semaines
+Le Mois Prochain
+3 Prochains Mois
+6 Prochains Mois
+X Prochains Mois
+L'Année Prochaine
+X Prochaines Années
+Prochain Année Financière
+X Prochains Années Financières
+Avancé à
+Avancé Avant
+Avancé Après
+Avancé Entre
+Super Recherche
+Vérification de l'État de la Super Recherche ...
+Votre système est en cours d'indexation
+actuellement à
+La Base de Données est déjà en cours d'indexation.
+Le répertoire défini dans la propriété système CentralPath.Index n'est pas valide! Veuillez vous assurer que le répertoire est accessible.
+Un problème est survenu. Veuillez contacter votre administrateur.
+impossible d'indexer le système si la super recherche n'est pas activée!
+de
+Impossible de trouver l'adresse courriel de l'Utilisateur Système spécifié
+PIN envoyé avec succès à
+Le code PIN n'a pas été envoyé avec succès à
+Impossible d'envoyer le courriel à
+Impossible de trouver le numéro de contact de l'utilisateur système spécifié
+PIN envoyé avec succès à
+Le SMS n'a pas été envoyé avec succès à
+Impossible d'envoyer des SMS car les paramètres ne sont pas définis
+Impossible d'envoyer des SMS à
+Crédits d'Intégration Mensuels Restants:
+Cette requête enregistrée ne peut pas être supprimée, elle est liée à
+Flux de Processus
+Il y a un élément à votre attention.
+Enregistrement Actif
+Numéros de Référence Externes
+Emplacement d'Apparence
+Évaluation Pondération
+Numéros de Référence Externes
+Coordonnées d'Organisation
